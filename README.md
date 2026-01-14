@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="./assets/logo.png">
   <br>
   <br>
   <h1 align="center">🎨 TailorRec: From User Behavior to Creative Content</h1>
-
+  <img src="./assets/logo.png">
   <p align="center">
     <img src="https://img.shields.io/badge/🐍Python-3.10+-00d9ff?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e">
     <img src="https://img.shields.io/badge/🔥PyTorch-2.3+-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a2e">
